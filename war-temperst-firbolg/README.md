@@ -1,0 +1,1 @@
+This includes the Tempest Domain subclass and the Warforged Envoy, Juggernaut, and Skirmisher races.
