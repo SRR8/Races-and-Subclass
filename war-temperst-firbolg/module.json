@@ -1,0 +1,23 @@
+{
+  "id": "war-temperst-firbolg",
+  "title": "Races",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12",
+    "maximum": "13"
+  },
+  "packs": [
+    {
+      "name": "races-and-subclass",
+      "label": "Races and Subclass",
+      "path": "packs/races-and-subclass",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ]
+}
